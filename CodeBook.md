@@ -1,10 +1,13 @@
 # Codebook (Getting and Cleaning Data Course Project)
 
+Author: Emilio Gonzalez Gonzalez  
+Date:   Feb 22, 2015
+
 ## Introduction
 This document represents codebook for the Coursera  John's Hopkins University Course  "Getting and Cleaning Data" Project, describind the data, and all the decissions that have been made to choose variables, rename them properly and process the data.
 
 ## Background
-Data corresponds to collected data from an experiment carried out with a group of 30 volunteers. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone Samsung on the waist.  
+Data corresponds to collected data from an experiment carried out with a group of 30 volunteers. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone Samsung on the waist. Data comes from the [UCI Machine learning repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  
 Different data has been captured from the smartphone sensors.  
 
 The dataset is partitioned into two sets called training data and test data.  

@@ -40,5 +40,3 @@ df.means     <- summarise_each(df.means, funs(mean))
 # 5) Writing the tidy data set in the working directoy
 # You can read with: df.tidy <- read.table("tidydata.txt",sep=",",header=TRUE)
 write.table(df.means, file ="tidydata.txt", sep=",", row.name=FALSE)
-
-
