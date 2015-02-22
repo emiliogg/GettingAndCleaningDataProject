@@ -1,5 +1,4 @@
-Readme (Getting and Cleaning Data Project)
-========================================================
+# Readme (Getting and Cleaning Data Project)
 
 Author: Emilio Gonzalez Gonzalez  
 Date:   Feb 22, 2015
@@ -32,5 +31,5 @@ Data process has been carried out with standard R using the dplyr package, extra
 As requested data has been grouped by Subject and Activity, computing their averable and writing the output in the `tidydata.txt` file.
 
 ## Codebook
-The `CodeBook.md` file describes the data, explains the variables descriptive names (and why their names are descriptive).
+The `CodeBook.md` file describes the data, explains the variables descriptive names, the process of creation of those names and the general procedure to clean up the data and create the requested data set.
 
